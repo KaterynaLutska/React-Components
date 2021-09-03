@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://petapixel.com/assets/uploads/2013/06/04-V2txSad.jpg",
+    "name": "Mango",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://petapixel.com/assets/uploads/2013/06/03-VVgpWXE.jpg",
+    "name": "Kiwi",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://petapixel.com/assets/uploads/2013/06/02-KJSSLZ3.jpg",
+    "name": "Ajax",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://petapixel.com/assets/uploads/2013/06/05-Mkgxd2T.jpg",
+    "name": "Jay",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://petapixel.com/assets/uploads/2013/06/01-k7B0a65.jpg",
+    "name": "Poly",
+    "isOnline": false,
+    "id": 1284
+  }
+]
